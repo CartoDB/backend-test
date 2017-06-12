@@ -58,4 +58,4 @@ Product, Charles, 1233303
  Product  | Charles | 1211037 | 49.18%
  ```
 
-Send your solution to [CARTO Backend position](https://boards.greenhouse.io/cartodb/jobs/726194#.WT6AaRPyjUI).
+Send your solution to [CARTO Backend position](https://boards.greenhouse.io/cartodb/jobs/726194#.WT6AaRPyjUI). Please, don't send PRs, as we want to keep your solutions separated from the challenge. Fork it to your Github profile and send us the link to the diff of your solution.
