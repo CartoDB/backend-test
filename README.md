@@ -14,7 +14,7 @@
 
 _Please note that output doesn't have to match exactly the previous examples (seed has some randomness)._
 
-1. We want a list of users and group belonging. Display all users, their crypted names, the amount of groups that they belong to, and the name of the groups, sorted by the amount of groups. ActiveRecord must only run one query for this. Example output:
+1. We want a list of users and group belonging. Display all users, their crypted names, the amount of groups that they belong to, and the name of the groups, sorted by the amount of groups. You should do this with ActiveRecord, but it should trigger as few queries as possible. Example output:
 
 ```
 Eva - 20VD6w7LkMKOA - 0 - []
