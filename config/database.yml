@@ -1,0 +1,16 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: backend
+  pool: 5
+  username: backend
+  password: backend
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: backend_test
+  pool: 5
+  username: backend_test
+  password: backend_test
+
